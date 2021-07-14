@@ -1052,6 +1052,14 @@
       "url": "https://json.schemastore.org/function.json"
     },
     {
+      "name": "Global Privacy Control",
+      "description": "Configuration for GPC, so a site can convey its support for the Global Privacy Control.",
+      "fileMatch": [
+        "**/.well-known/gpc.json"
+      ],
+      "url": "https://json.schemastore.org/gpc.json"
+    },
+    {
       "name": "geojson.json",
       "description": "GeoJSON format for representing geographic data.",
       "url": "https://json.schemastore.org/geojson.json"
